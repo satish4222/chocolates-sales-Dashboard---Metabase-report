@@ -93,5 +93,5 @@ The dashboard is designed for **business users, analysts, and management** to ea
 ##  Author
 
 **Mandela Satish**
-B.Tech – Electronics and Communication Engineering
+B.Tech – Electronics and Computer Engineering
 Aspiring Data Analyst | SQL | Metabase | Data Visualization
